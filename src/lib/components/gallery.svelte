@@ -4,34 +4,34 @@
 
 	const galleryImages = [
 		{
-			url: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80',
-			alt: 'Professional Towing Truck',
-			title: 'Heavy Duty Towing'
+			url: 'https://images.unsplash.com/photo-1673187139211-1e7ec3dd60ec?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
+			alt: 'Light Duty Towing Service',
+			title: 'Light Duty Towing'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=80',
-			alt: 'Roadside Assistance',
-			title: 'Emergency Response'
+			url: 'https://images.unsplash.com/photo-1698998882426-39a6609ab10a?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
+			alt: 'Heavy Truck Towing',
+			title: 'Medium Duty Towing'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1552519507-da3a142e8e8d?w=1200&q=80',
-			alt: 'Car Recovery Service',
-			title: 'Vehicle Recovery'
+			url: 'https://plus.unsplash.com/premium_photo-1683141559021-3d1273fbb652?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
+			alt: 'Mechanic Changing Tire',
+			title: 'Flat Tire Service'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1200&q=80',
-			alt: 'Flatbed Towing',
-			title: 'Flatbed Transport'
+			url: 'https://images.unsplash.com/photo-1644503584825-91dfe48edca6?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
+			alt: 'Car Battery Service',
+			title: 'Battery Jumpstart'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80',
-			alt: 'Motorcycle Towing',
-			title: 'Motorcycle Towing'
+			url: 'https://images.unsplash.com/photo-1641478863984-ccefbd75fb2a?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
+			alt: 'Professional Locksmith Service',
+			title: 'Lockout Service'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&q=80',
-			alt: 'Night Operations',
-			title: '24/7 Service'
+			url: 'https://images.unsplash.com/photo-1519167758481-83f19106ae4f?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
+			alt: 'Wheel Maintenance Service',
+			title: 'Wheel Lock Removal'
 		}
 	];
 
