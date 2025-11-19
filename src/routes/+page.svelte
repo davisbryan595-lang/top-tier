@@ -3,6 +3,7 @@
 	import Hero from '../lib/components/hero.svelte';
 	import Services from '../lib/components/services.svelte';
 	import EmergencyBanner from '../lib/components/emergency-banner.svelte';
+	import Gallery from '../lib/components/gallery.svelte';
 	import Pricing from '../lib/components/pricing.svelte';
 	import ContactForm from '../lib/components/contact-form.svelte';
 	import Footer from '../lib/components/footer.svelte';
@@ -27,6 +28,7 @@
 		<Hero />
 		<EmergencyBanner />
 		<Services />
+		<Gallery />
 		<Pricing />
 		<ContactForm />
 		<Footer />
