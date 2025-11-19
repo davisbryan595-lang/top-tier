@@ -4,32 +4,32 @@
 
 	const galleryImages = [
 		{
-			url: '/placeholder.svg?height=500&width=600',
+			url: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=80',
 			alt: 'Professional Towing Truck',
 			title: 'Heavy Duty Towing'
 		},
 		{
-			url: '/placeholder.svg?height=500&width=600',
+			url: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&q=80',
 			alt: 'Roadside Assistance',
 			title: 'Emergency Response'
 		},
 		{
-			url: '/placeholder.svg?height=500&width=600',
+			url: 'https://images.unsplash.com/photo-1552519507-da3a142e8e8d?w=1200&q=80',
 			alt: 'Car Recovery Service',
 			title: 'Vehicle Recovery'
 		},
 		{
-			url: '/placeholder.svg?height=500&width=600',
+			url: 'https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1200&q=80',
 			alt: 'Flatbed Towing',
 			title: 'Flatbed Transport'
 		},
 		{
-			url: '/placeholder.svg?height=500&width=600',
+			url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80',
 			alt: 'Motorcycle Towing',
 			title: 'Motorcycle Towing'
 		},
 		{
-			url: '/placeholder.svg?height=500&width=600',
+			url: 'https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&q=80',
 			alt: 'Night Operations',
 			title: '24/7 Service'
 		}
