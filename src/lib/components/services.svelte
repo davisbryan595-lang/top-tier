@@ -22,19 +22,19 @@
 			title: 'Battery Jumpstart',
 			icon: '🔋',
 			description: 'Fast battery service and installation',
-			image: 'https://images.unsplash.com/photo-1557821552-17105176677c?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
+			image: 'https://images.unsplash.com/photo-1531746790731-6c087fecd51b?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Lockout Service',
 			icon: '🔐',
 			description: 'Quick professional lockout assistance',
-			image: 'https://images.unsplash.com/photo-1734965334739-09095e8ed1ee?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
+			image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Wheel Lock Removal',
 			icon: '🔧',
 			description: 'Expert wheel lock and fastener removal',
-			image: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
+			image: 'https://images.unsplash.com/photo-1487754180144-351b8ec7a630?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		}
 	];
 
