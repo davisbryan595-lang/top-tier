@@ -4,37 +4,37 @@
 			title: 'Light Duty Towing',
 			icon: '🚗',
 			description: 'Professional towing for cars and compact vehicles',
-			image: 'https://images.unsplash.com/photo-1581578731548-c64695c952952?w=500&q=80'
+			image: 'https://images.unsplash.com/photo-1673187139211-1e7ec3dd60ec?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Medium Duty Towing',
 			icon: '🚙',
 			description: 'Heavy-duty towing for trucks and SUVs',
-			image: 'https://images.unsplash.com/photo-1581578731548-c64695c952952?w=500&q=80'
+			image: 'https://images.unsplash.com/photo-1698998882426-39a6609ab10a?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Flat Tire Service',
 			icon: '⚙️',
 			description: 'Quick tire changes and professional repairs',
-			image: 'https://images.unsplash.com/photo-1583092917360-ce0dbafce850?w=500&q=80'
+			image: 'https://plus.unsplash.com/premium_photo-1683141559021-3d1273fbb652?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Battery Jumpstart',
 			icon: '🔋',
 			description: 'Fast battery service and installation',
-			image: 'https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=500&q=80'
+			image: 'https://images.unsplash.com/photo-1557821552-17105176677c?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Lockout Service',
 			icon: '🔐',
 			description: 'Quick professional lockout assistance',
-			image: 'https://images.unsplash.com/photo-1593642632560-7348ab297866?w=500&q=80'
+			image: 'https://images.unsplash.com/photo-1549920175-56ac8f3fab37?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Wheel Lock Removal',
 			icon: '🔧',
 			description: 'Expert wheel lock and fastener removal',
-			image: 'https://images.unsplash.com/photo-1581092161562-40038e57e69f?w=500&q=80'
+			image: 'https://images.unsplash.com/photo-1519167758481-83f19106ae4f?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		}
 	];
 
