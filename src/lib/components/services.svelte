@@ -28,13 +28,13 @@
 			title: 'Lockout Service',
 			icon: '🔐',
 			description: 'Quick professional lockout assistance',
-			image: 'https://images.unsplash.com/photo-1549920175-56ac8f3fab37?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
+			image: 'https://images.unsplash.com/photo-1734965334739-09095e8ed1ee?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		},
 		{
 			title: 'Wheel Lock Removal',
 			icon: '🔧',
 			description: 'Expert wheel lock and fastener removal',
-			image: 'https://images.unsplash.com/photo-1519167758481-83f19106ae4f?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
+			image: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?fm=jpg&q=80&w=800&ixlib=rb-4.1.0'
 		}
 	];
 
