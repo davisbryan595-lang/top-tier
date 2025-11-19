@@ -4,32 +4,32 @@
 
 	const galleryImages = [
 		{
-			url: 'https://images.unsplash.com/photo-1625246333195-78d9c38ad576?w=1200&q=80',
+			url: 'https://images.unsplash.com/photo-1673187139211-1e7ec3dd60ec?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
 			alt: 'Light Duty Towing Service',
 			title: 'Light Duty Towing'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1533473359331-35acde7260c9?w=1200&q=80',
+			url: 'https://images.unsplash.com/photo-1698998882426-39a6609ab10a?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
 			alt: 'Heavy Truck Towing',
 			title: 'Medium Duty Towing'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&q=80',
+			url: 'https://plus.unsplash.com/premium_photo-1683141559021-3d1273fbb652?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
 			alt: 'Mechanic Changing Tire',
 			title: 'Flat Tire Service'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200&q=80',
+			url: 'https://images.unsplash.com/photo-1644503584825-91dfe48edca6?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
 			alt: 'Car Battery Service',
 			title: 'Battery Jumpstart'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80',
+			url: 'https://images.unsplash.com/photo-1641478863984-ccefbd75fb2a?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
 			alt: 'Professional Locksmith Service',
 			title: 'Lockout Service'
 		},
 		{
-			url: 'https://images.unsplash.com/photo-1486262715619-3417ca6ef291?w=1200&q=80',
+			url: 'https://images.unsplash.com/photo-1519167758481-83f19106ae4f?fm=jpg&q=80&w=1200&ixlib=rb-4.1.0',
 			alt: 'Wheel Maintenance Service',
 			title: 'Wheel Lock Removal'
 		}
